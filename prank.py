@@ -14,6 +14,7 @@ print(RED+'''
                                                          
 
 ''')
+ip = input(RED+'\nType ip : ')
 def FakeIPHack ():
     print(GREEN+'''\nwait....''')
     time.sleep(3)
